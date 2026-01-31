@@ -51,7 +51,7 @@ The goal was to transform raw HR data into actionable business insights using Po
 ---
 
 ## 📌 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview]( https://github.com/ASDanta/HR-ANALYTICS-POWER-BI/blob/main/BI%20PROJECT%201%20DASHBOARD.png)
 
 ---
 
