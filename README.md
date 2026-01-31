@@ -45,7 +45,7 @@ The goal was to transform raw HR data into actionable business insights using Po
 ---
 
 ## 📁 Files in this Repository
-HR Data.xlsx
+(https://github.com/ASDanta/HR-ANALYTICS-POWER-BI/blob/main/HR%20Data.xlsx)
 
 
 ---
