@@ -45,8 +45,8 @@ The goal was to transform raw HR data into actionable business insights using Po
 ---
 
 ## 📁 Files in this Repository
-- `HR_Analytics_Dashboard.pbix` – Interactive Power BI dashboard
-- `dashboard_preview.png` – Dashboard snapshot
+HR Data.xlsx
+
 
 ---
 
